@@ -42,6 +42,7 @@ import static com.qualcomm.robotcore.hardware.DcMotor.ZeroPowerBehavior.BRAKE;
 public class BlueSideInsidePark extends LinearOpMode {
 
     // test git changes 2
+    //test git change 3
 
     /* Declare OpMode members. */
     MecanumHardware         robot   = new MecanumHardware();   // Use a Pushbot's hardware
